@@ -1,0 +1,26 @@
+zSWvD8bH3bfm
+
+104.194.85.18
+
+26628
+
+
+12358
+
+
+https://bandwagonhost.com
+
+
+ ps -aux|grep apache2|cut -c 9-15|xargs kill -9
+
+ ssserver -c /etc/shadowsocks.json -d start
+
+cat        显示文件
+
+cat /dev/null > /var/log/messages 清除文件内容
+
+$ sudo passwd root 改密码
+
+pwd 显示当前目录
+
+ls -ah 显示隐藏的文件
