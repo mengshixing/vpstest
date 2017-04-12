@@ -1,2 +1,7 @@
 git 问题解决方案：
 
+1  解决ssh连接问题
+
+   ssh-keygen -t rsa -C "humingx@yeah.net" 
+
+   得到了两个文件：id_rsa和id_rsa.pub。  
