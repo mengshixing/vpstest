@@ -4,4 +4,10 @@ git 问题解决方案：
 
    ssh-keygen -t rsa -C "humingx@yeah.net" 
 
-   得到了两个文件：id_rsa和id_rsa.pub。  
+   得到了两个文件：id_rsa和id_rsa.pub  
+
+2  换行问题
+   
+   git config --global core.autocrlf false
+
+3  tab键提交之前需要替换成4个空格,这样git格式不会乱
