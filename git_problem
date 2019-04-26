@@ -16,3 +16,4 @@ git 问题解决方案：
    *.log
    *.temp
    /vendor
+5  git config receive.denyCurrentBranch ignore 本地仓库推送服务器的话,服务器的设置
